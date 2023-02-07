@@ -1,0 +1,53 @@
+
+.container{
+
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+
+}
+
+
+.d1{
+
+    background-color: blue;
+    width:100%px;
+    height: 300px;
+ 
+} 
+
+.d2{
+  
+    background-color:chartreuse;
+    width: 100%px;
+    height: 300px;
+   
+}
+
+.d3{
+
+    background-color: red;
+    overflow:scroll;
+    right:100%;
+    width: 60%;
+    height: 300px;
+   
+    
+}
+
+.para{
+
+    position:relative;
+   text-align: center;
+    top: 10%;
+   
+    
+    color: white;
+}
+
+body{
+
+
+overflow: scroll;
+
+}

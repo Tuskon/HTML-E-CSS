@@ -1,0 +1,87 @@
+*{
+
+margin:0;
+padding:0;
+box-sizing:border-box;
+
+}
+
+
+h2{
+
+font-size: 12px;
+font-style:italic;
+font-weight: normal;
+font-family: 'Lato', sans-serif;
+
+
+}
+
+.cor{
+
+color:blue;
+font-size: 18
+    
+}
+
+#ola{
+
+color:green;
+font-size:30;
+
+}
+
+
+/* Esta forma demonstra um nível de importâncio no CSS caso que existisse uma mesma idexação com esse nome a que está com o atributo referênciado é que vai prevalecer */
+h4.tchau{
+
+    color:blueviolet;
+    font-size:40;
+
+}
+
+h1.classe{
+
+    font-size: xx-large;
+    color:pink;
+    font-style: oblique;
+    
+    }
+
+
+.classe{
+
+font-size: xx-large;
+color:brown;
+font-style: oblique;
+
+}
+
+
+
+
+[name]{
+
+color:darkturquoise;
+    
+}
+
+
+
+[name=teste]{
+
+    color:green;
+}
+
+[type=text]{
+
+
+}
+
+[type=button]{
+
+    width: 100px;
+height: 100px;
+
+}
+
